@@ -1,0 +1,15 @@
+Started GET "/" for ::1 at 2020-12-19 02:06:38 +0530
+Started GET "/" for ::1 at 2020-12-19 02:06:38 +0530
+  [1m[35m (8.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /var/lib/gems/2.7.0/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering /var/lib/gems/2.7.0/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /var/lib/gems/2.7.0/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 29.1ms | Allocations: 499)
+  Rendered /var/lib/gems/2.7.0/gems/railties-6.1.0/lib/rails/templates/rails/welcome/index.html.erb (Duration: 29.9ms | Allocations: 504)
+Completed 200 OK in 298ms (Views: 55.7ms | ActiveRecord: 0.0ms | Allocations: 3915)
+
+
+Completed 200 OK in 316ms (Views: 37.7ms | ActiveRecord: 0.0ms | Allocations: 4266)
+
+
