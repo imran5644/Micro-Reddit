@@ -1,24 +1,36 @@
-# README
+# Building with Active Record: Micro Reddit App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a back-end version of Reddit. Containing only the necessary data structures to support link submissions and commenting.
 
-Things you may want to cover:
+# Built With
 
-* Ruby version
+Ruby on Rails
+GitFlow
+Sqlite3
+Rubocop
 
-* System dependencies
+# Authors
 
-* Configuration
+Github: @imran5644
+Twitter: @imran56444
+Linkedin: Imran Yousaf
 
-* Database creation
+GitHub: @cgcarlosg
+Twitter: @cgcarlosg1
+LinkedIn: Carlos albenio gutierrez
 
-* Database initialization
+## Contributing
+Contributions, issues and feature requests are welcome!
 
-* How to run the test suite
+## Feel free to check the issues page.
 
-* Services (job queues, cache servers, search engines, etc.)
+## Show your support
+Give a star if you like this project!
 
-* Deployment instructions
+## Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etc
 
-* ...
+## License
+This project is MIT licensed.
